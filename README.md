@@ -1,5 +1,12 @@
 # Physics-simulation-of-Fluid-dynamics-using-WALRUS
 This project uses **WALRUS**, a physics foundation model, to predict how a heated fluid evolves over time using the **Rayleigh–Bénard convection** dataset.
+
+Fluid Simulation Output:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/debabratapruseth/Physics-simulation-of-Fluid-dynamics-using-WALRUS/main/Fluid%20Dynamics%20with%20Walrus.gif" width="150" height="300">
+</p>
+
 ---
 ## Project Objective
 The goal is to show how an AI model can look at the current state of a physical system and predict what happens next.
