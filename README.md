@@ -23,7 +23,7 @@ Current physics state → Future physics states
 
 ⸻
 
-Dataset Used
+## Dataset Used
 
 Dataset: Rayleigh–Bénard convection
 
@@ -43,7 +43,7 @@ Hot liquid rises, cooler liquid sinks, and patterns begin to form.
 
 ⸻
 
-Model Used
+## Model Used
 
 This project uses:
 
@@ -55,7 +55,7 @@ WALRUS predicts future states of physical systems across different scientific do
 
 ⸻
 
-Input and Output
+## Input and Output
 
 Input
 
@@ -93,7 +93,7 @@ If the selected field represents temperature, brighter regions can be interprete
 
 ⸻
 
-Project Workflow
+## Project Workflow
 
 1. Set up Colab environment
 2. Install WALRUS and dependencies
@@ -135,9 +135,28 @@ This project demonstrates:
 ⸻
 
 
-Credits
+## Credits
 
 * WALRUS: PolymathicAI
 * Dataset: Rayleigh–Bénard convection from The Well
 * Visualization: Matplotlib and ImageIO
+
+⸻
+
+
+## Related Blog and Research PDF
+
+### This repository supports the blog post:
+
+AI-Assisted Protein Analysis: From Sequence to Drug-Binding Hypothesis
+
+https://debabratapruseth.com/building-a-persona-driven-survey-engine-using-ai/
+
+### Research-style title:
+
+Research PDF: https://debabratapruseth.com/wp-content/uploads/From-Simulation-to-Prediction-Data-Driven-Modeling-of-Fluid-Dynamics-Using-Artificial-Intelligence.pdf
+
+### If you reference this project, please cite:
+
+Pruseth, D. (2026). From Simulation to Prediction: Data-Driven Modeling of Fluid Dynamics Using Artificial Intelligence.
 
