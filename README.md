@@ -17,9 +17,6 @@ In simple terms:
 ## Problem Statement
 Physical systems such as fluids, weather, heat flow, and gases change over time.
 Traditionally, these systems are simulated using numerical physics solvers. In this project, we use a machine learning model called **WALRUS** to forecast the future state of the system.
-The task is:
-```text
-Current physics state → Future physics states
 
 ⸻
 
