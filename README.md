@@ -145,9 +145,9 @@ This project demonstrates:
 
 ### This repository supports the blog post:
 
-AI-Assisted Protein Analysis: From Sequence to Drug-Binding Hypothesis
+From Simulation to Prediction: Learning Fluid Dynamics with AI
 
-https://debabratapruseth.com/building-a-persona-driven-survey-engine-using-ai/
+https://debabratapruseth.com/from-simulation-to-prediction-learning-fluid-dynamics-with-ai/
 
 ### Research-style title:
 
@@ -156,4 +156,10 @@ Research PDF: https://debabratapruseth.com/wp-content/uploads/From-Simulation-to
 ### If you reference this project, please cite:
 
 Pruseth, D. (2026). From Simulation to Prediction: Data-Driven Modeling of Fluid Dynamics Using Artificial Intelligence.
+
+⸻
+
+## License
+
+This project is licensed under the MIT License — you’re free to use, modify, and distribute it.
 
